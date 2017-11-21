@@ -6,8 +6,7 @@ from deap import tools
 from deap import creator
 from deap import base
 
-pareto_file = "exhaustive_individuals.txt"
-fitness_file = "exhaustive_fitness.txt"
+pareto_file = "exp1_results\\exhaustive_individuals.txt"
 instance_file = "instances\\tiny_2d_3s_5c.txt"
 
 
