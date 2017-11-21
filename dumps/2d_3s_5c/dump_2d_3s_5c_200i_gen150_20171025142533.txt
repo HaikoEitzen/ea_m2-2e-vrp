@@ -1,0 +1,2056 @@
+Wed Oct 25 14:25:33 2017
+2 depots
+3 satellites
+5 clients
+Population size: 200 individuals
+Generation 150
+Total elapsed time: 0:01:23
+Elapsed execution time: 0:01:23
+Pareto Front (200 individuals)
+Solutions
+< depot 0 | 1  ||	depot 1 | 1  ||	
+1	1	1	0	1	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(8567.301599999999, 17201.1666, 6.0, 12884.38)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites']
+< depot 0 | 1  ||	depot 1 | 1  ||	
+1	1	1	0	1	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(8567.301599999999, 17201.1666, 6.0, 12884.38)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Centralize client', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1  ||	
+1	1	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	1	0	0	0	1	| 6 2 
+2	0	0	0	0	0	| 0 1 
+0	2	0	0	0	0	| 2 2 >
+(14063.3064, 15629.588600000001, 6.0, 15606.900000000001)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1  ||	
+1	1	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+2	0	0	0	0	0	| 1 1 
+1	1	0	0	0	1	| 6 2 
+3	0	0	0	0	0	| 0 1 
+0	2	0	0	0	0	| 2 2 >
+(14063.3064, 15629.588600000001, 6.0, 15606.900000000001)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Switch trucks', 'Swap clients', 'Centralize client']
+< depot 0 | 1  ||	depot 1 | 1 2 3  ||	
+1	1	3	0	2	0	
+1	0	0	0	0	0	| 1 1 
+2	0	1	0	0	0	| 1 3 
+0	1	0	0	0	0	| 2 2 
+0	0	2	0	0	0	| 0 3 
+0	2	0	0	1	0	| 2 5 >
+(17976.5157, 14434.245200000001, 6.0, 17401.320000000003)
+['Chaos', 'Crossover', 'Switch products', 'Swap clients', 'Crossover', 'Switch trucks', 'Switch products', 'Swap clients', 'Centralize client', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Switch trucks', 'Crossover', 'Swap clients', 'Switch trucks', 'Switch products', 'Switch satellites', 'Crossover', 'Centralize client', 'Swap clients', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Swap clients']
+< depot 0 | 1  ||	depot 1 | 1 2 3  ||	
+1	1	0	3	0	2	
+1	0	0	0	0	0	| 1 1 
+2	0	0	1	0	0	| 1 4 
+0	1	0	0	0	0	| 2 2 
+0	0	0	2	0	0	| 0 4 
+0	2	0	0	0	1	| 2 6 >
+(17976.5157, 14434.245200000001, 6.0, 17401.320000000003)
+['Chaos', 'Crossover', 'Switch products', 'Swap clients', 'Crossover', 'Switch trucks', 'Switch products', 'Swap clients', 'Centralize client', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Switch trucks', 'Crossover', 'Swap clients', 'Switch trucks', 'Switch products', 'Switch satellites', 'Crossover', 'Centralize client', 'Swap clients', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Swap clients', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch trucks']
+< depot 0 | 1  ||	depot 1 | 1 2 3  ||	
+1	1	3	0	0	2	
+1	0	0	0	0	0	| 1 1 
+2	0	1	0	0	0	| 1 3 
+0	1	0	0	0	0	| 2 2 
+0	0	2	0	0	0	| 0 3 
+0	2	0	0	0	1	| 2 6 >
+(17976.5157, 14434.245200000001, 6.0, 17401.320000000003)
+['Chaos', 'Crossover', 'Switch products', 'Swap clients', 'Crossover', 'Switch trucks', 'Switch products', 'Swap clients', 'Centralize client', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Switch trucks', 'Crossover', 'Swap clients', 'Switch trucks', 'Switch products', 'Switch satellites', 'Crossover', 'Centralize client', 'Swap clients', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Swap clients', 'Switch products', 'Swap clients', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Crossover', 'Swap clients', 'Crossover', 'Switch trucks', 'Swap clients', 'Switch products', 'Swap clients', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Crossover', 'Swap clients', 'Centralize client', 'Crossover', 'Switch satellites', 'Swap clients', 'Centralize client', 'Switch products', 'Centralize client', 'Swap clients', 'Switch products', 'Centralize client', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Swap clients', 'Centralize client', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch trucks', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Switch products', 'Switch trucks', 'Swap clients', 'Switch products', 'Switch trucks', 'Swap clients', 'Centralize client', 'Switch products', 'Crossover', 'Swap clients', 'Switch products', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Centralize client', 'Switch trucks', 'Switch products', 'Centralize client', 'Switch products', 'Crossover', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Centralize client', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Centralize client', 'Centralize client', 'Switch satellites', 'Centralize client', 'Switch satellites', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Swap clients', 'Centralize client', 'Switch trucks', 'Centralize client', 'Centralize client', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Crossover', 'Centralize client', 'Switch products', 'Switch trucks', 'Swap clients', 'Crossover', 'Switch trucks', 'Centralize client', 'Swap clients', 'Crossover', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products', 'Swap clients', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	1	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	2	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch satellites', 'Switch products', 'Centralize client', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Crossover', 'Swap clients', 'Centralize client', 'Swap clients', 'Switch products', 'Centralize client', 'Crossover', 'Centralize client', 'Switch products', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	1	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	2	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch satellites', 'Switch products', 'Centralize client', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Crossover', 'Swap clients', 'Centralize client', 'Swap clients', 'Switch products', 'Centralize client', 'Centralize client', 'Switch trucks', 'Switch products', 'Centralize client', 'Switch products', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Centralize client', 'Switch trucks', 'Switch products', 'Centralize client', 'Switch products', 'Crossover', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products', 'Crossover', 'Centralize client', 'Switch products', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Crossover', 'Swap clients', 'Centralize client', 'Crossover', 'Switch satellites', 'Switch products', 'Switch trucks', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Centralize client', 'Crossover', 'Centralize client', 'Switch trucks', 'Centralize client', 'Switch trucks', 'Crossover', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch trucks', 'Switch satellites', 'Centralize client', 'Switch products', 'Swap clients', 'Centralize client', 'Switch satellites']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Centralize client', 'Crossover', 'Switch satellites']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Switch products', 'Switch trucks', 'Swap clients', 'Switch products', 'Switch trucks', 'Swap clients', 'Crossover', 'Swap clients', 'Switch trucks', 'Centralize client', 'Crossover', 'Switch products', 'Centralize client', 'Swap clients', 'Centralize client', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client', 'Switch satellites', 'Crossover', 'Switch products', 'Crossover', 'Swap clients', 'Centralize client', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Centralize client', 'Switch products', 'Swap clients', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Switch trucks', 'Switch satellites']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Swap clients', 'Centralize client', 'Switch trucks', 'Centralize client', 'Centralize client', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Crossover', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Switch trucks', 'Swap clients', 'Crossover', 'Switch satellites']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Switch trucks', 'Swap clients', 'Crossover', 'Centralize client', 'Swap clients', 'Switch products', 'Switch satellites', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Swap clients', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Switch trucks', 'Swap clients', 'Crossover', 'Centralize client', 'Swap clients', 'Switch products', 'Switch satellites']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Centralize client', 'Switch trucks', 'Switch products', 'Centralize client', 'Switch products', 'Crossover', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products', 'Switch products', 'Centralize client', 'Swap clients', 'Switch trucks', 'Switch products', 'Swap clients', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Switch products', 'Swap clients', 'Switch trucks', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Crossover', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	1	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	2	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch satellites', 'Switch products', 'Centralize client', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Crossover', 'Swap clients', 'Centralize client', 'Swap clients', 'Switch products', 'Centralize client', 'Switch trucks', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch trucks', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Crossover', 'Swap clients', 'Centralize client', 'Crossover', 'Switch satellites', 'Switch products', 'Switch trucks', 'Centralize client', 'Swap clients', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	1	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	2	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch satellites', 'Switch products', 'Centralize client', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Crossover', 'Swap clients', 'Centralize client', 'Swap clients', 'Switch products', 'Centralize client', 'Centralize client', 'Switch trucks', 'Switch products', 'Switch trucks', 'Switch products', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Switch satellites', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	1	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	2	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch satellites', 'Switch products', 'Centralize client', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Crossover', 'Swap clients', 'Centralize client', 'Swap clients', 'Switch products', 'Centralize client', 'Centralize client', 'Switch trucks', 'Switch products', 'Switch trucks', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Centralize client', 'Switch trucks', 'Switch products', 'Centralize client', 'Switch products', 'Crossover', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products', 'Switch products', 'Centralize client', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Chaos', 'Switch trucks', 'Swap clients', 'Switch satellites', 'Switch products', 'Centralize client', 'Switch trucks', 'Centralize client', 'Centralize client', 'Swap clients', 'Switch trucks', 'Crossover', 'Swap clients', 'Switch trucks', 'Centralize client', 'Crossover', 'Switch products', 'Centralize client', 'Switch satellites', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client', 'Switch satellites']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Switch products', 'Switch trucks', 'Swap clients', 'Switch products', 'Switch trucks', 'Swap clients', 'Crossover', 'Swap clients', 'Switch trucks', 'Centralize client', 'Crossover', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Swap clients', 'Centralize client', 'Switch trucks', 'Centralize client', 'Centralize client', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Crossover', 'Centralize client', 'Switch products', 'Switch trucks', 'Swap clients', 'Crossover', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Switch products', 'Switch trucks', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Centralize client', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	1	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	2	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch satellites', 'Switch products', 'Centralize client', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Crossover', 'Swap clients', 'Centralize client', 'Swap clients', 'Switch products', 'Centralize client', 'Centralize client', 'Switch trucks', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Chaos', 'Switch trucks', 'Swap clients', 'Switch satellites', 'Switch products', 'Centralize client', 'Switch trucks', 'Centralize client', 'Centralize client', 'Swap clients', 'Switch trucks', 'Crossover', 'Swap clients', 'Switch trucks', 'Centralize client', 'Crossover', 'Switch products', 'Centralize client', 'Switch satellites']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Centralize client', 'Crossover', 'Swap clients', 'Switch satellites', 'Centralize client', 'Crossover', 'Swap clients', 'Centralize client', 'Crossover', 'Switch products', 'Switch satellites']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	1	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	2	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch satellites', 'Switch products', 'Centralize client', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Crossover', 'Swap clients', 'Centralize client', 'Swap clients', 'Switch products', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Chaos', 'Switch trucks', 'Swap clients', 'Switch satellites', 'Switch products', 'Centralize client', 'Switch trucks', 'Centralize client', 'Centralize client', 'Swap clients', 'Switch trucks', 'Crossover', 'Swap clients', 'Switch trucks', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	0	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Switch satellites', 'Centralize client', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch satellites', 'Switch products', 'Centralize client', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch trucks', 'Switch products', 'Centralize client', 'Crossover', 'Switch trucks', 'Switch products', 'Centralize client', 'Switch satellites']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	0	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch satellites', 'Switch products', 'Centralize client', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Centralize client', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	0	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Switch satellites', 'Centralize client', 'Switch products', 'Crossover', 'Switch products', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Crossover', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	0	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Crossover', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Centralize client', 'Swap clients', 'Switch products', 'Switch satellites', 'Swap clients', 'Switch products', 'Centralize client', 'Centralize client', 'Switch satellites']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch trucks', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Crossover', 'Swap clients', 'Centralize client', 'Crossover', 'Switch satellites', 'Switch products', 'Centralize client', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Switch products', 'Crossover', 'Swap clients', 'Centralize client', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Switch products', 'Switch trucks', 'Swap clients', 'Switch products', 'Switch trucks', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Centralize client', 'Switch trucks', 'Switch products', 'Centralize client', 'Switch products', 'Crossover', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Switch products', 'Switch trucks', 'Swap clients', 'Switch products', 'Switch trucks', 'Swap clients', 'Centralize client', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Swap clients', 'Centralize client', 'Switch trucks', 'Centralize client', 'Centralize client', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Swap clients', 'Centralize client', 'Switch trucks', 'Centralize client', 'Centralize client', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Centralize client', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	0	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Crossover', 'Centralize client', 'Centralize client', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Crossover', 'Swap clients', 'Centralize client', 'Crossover', 'Switch satellites', 'Switch products', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Swap clients', 'Centralize client', 'Switch trucks', 'Centralize client', 'Centralize client', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Crossover', 'Centralize client', 'Switch products', 'Switch trucks', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch trucks', 'Swap clients', 'Swap clients', 'Switch trucks', 'Centralize client', 'Swap clients', 'Switch products', 'Switch satellites', 'Swap clients', 'Swap clients', 'Switch satellites', 'Switch products', 'Centralize client', 'Switch trucks', 'Swap clients', 'Switch trucks', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Switch products', 'Switch trucks', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Crossover', 'Swap clients', 'Centralize client', 'Crossover', 'Switch satellites', 'Swap clients', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	1	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	2	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch satellites', 'Switch products', 'Centralize client', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Crossover', 'Swap clients', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Centralize client', 'Switch trucks', 'Switch products', 'Centralize client', 'Switch products', 'Crossover', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	0	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch trucks', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Crossover', 'Swap clients', 'Centralize client', 'Crossover', 'Switch satellites', 'Switch products', 'Switch trucks', 'Switch trucks', 'Centralize client', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Centralize client', 'Switch trucks', 'Switch products', 'Centralize client', 'Switch products', 'Crossover', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Crossover', 'Swap clients', 'Switch products', 'Switch trucks', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Switch products', 'Switch trucks', 'Swap clients', 'Switch products', 'Switch trucks', 'Swap clients', 'Crossover', 'Swap clients', 'Switch trucks', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Switch satellites', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Crossover', 'Swap clients', 'Crossover', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Crossover', 'Swap clients', 'Centralize client', 'Switch products', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Swap clients', 'Switch products', 'Switch satellites', 'Crossover', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Switch satellites', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Switch products', 'Switch trucks', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Centralize client', 'Switch trucks', 'Switch products', 'Centralize client', 'Switch products', 'Crossover', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Switch products', 'Swap clients', 'Switch trucks', 'Centralize client', 'Switch trucks', 'Switch satellites']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Centralize client', 'Crossover', 'Centralize client', 'Switch trucks', 'Centralize client', 'Switch trucks', 'Crossover', 'Swap clients', 'Switch trucks', 'Switch satellites']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Swap clients', 'Crossover', 'Switch satellites', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch products', 'Swap clients', 'Crossover', 'Swap clients', 'Centralize client', 'Switch satellites']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Switch products', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	0	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Switch products', 'Crossover', 'Switch satellites', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Centralize client', 'Switch trucks', 'Switch products', 'Centralize client', 'Switch products', 'Crossover', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client', 'Crossover', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Centralize client', 'Switch satellites', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Swap clients', 'Centralize client', 'Switch satellites']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Centralize client', 'Switch trucks', 'Switch products', 'Centralize client', 'Switch products', 'Crossover', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client', 'Switch products', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client', 'Switch satellites', 'Crossover', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Centralize client', 'Crossover', 'Centralize client', 'Switch trucks', 'Centralize client', 'Switch trucks', 'Crossover', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch trucks', 'Switch satellites', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Centralize client', 'Switch trucks', 'Switch products', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Swap clients', 'Centralize client', 'Switch trucks', 'Centralize client', 'Centralize client', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Crossover', 'Centralize client', 'Switch products', 'Switch trucks', 'Swap clients', 'Crossover', 'Switch trucks', 'Centralize client', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Centralize client', 'Switch trucks', 'Switch products', 'Centralize client', 'Switch products', 'Crossover', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client', 'Switch products', 'Centralize client', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	0	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Crossover', 'Centralize client', 'Crossover', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	0	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch trucks', 'Switch satellites', 'Switch products', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Switch products', 'Switch trucks', 'Swap clients', 'Switch products', 'Switch trucks', 'Swap clients', 'Crossover', 'Swap clients', 'Switch trucks', 'Centralize client', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Centralize client', 'Switch trucks', 'Switch products', 'Centralize client', 'Switch products', 'Crossover', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products', 'Switch products', 'Centralize client', 'Swap clients', 'Switch trucks', 'Switch products', 'Swap clients', 'Centralize client', 'Crossover', 'Swap clients', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Switch products', 'Crossover', 'Switch satellites', 'Centralize client', 'Centralize client', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Switch products', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Switch products', 'Crossover', 'Switch satellites', 'Centralize client', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch products', 'Swap clients', 'Crossover', 'Swap clients', 'Centralize client', 'Switch satellites', 'Crossover', 'Swap clients', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Switch trucks', 'Swap clients', 'Crossover', 'Centralize client', 'Swap clients', 'Switch products', 'Switch satellites', 'Centralize client', 'Switch satellites', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Centralize client', 'Crossover', 'Centralize client', 'Switch trucks', 'Centralize client', 'Switch trucks', 'Crossover', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch trucks', 'Switch satellites', 'Centralize client', 'Crossover', 'Switch satellites', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Centralize client', 'Switch trucks', 'Switch products', 'Centralize client', 'Switch products', 'Crossover', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Switch products', 'Centralize client', 'Switch satellites', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	1	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	2	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch satellites', 'Switch products', 'Centralize client', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Crossover', 'Swap clients', 'Centralize client', 'Swap clients', 'Switch products', 'Centralize client', 'Switch trucks', 'Swap clients', 'Switch trucks', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client', 'Switch satellites', 'Crossover', 'Centralize client', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Crossover', 'Swap clients', 'Centralize client', 'Crossover', 'Switch satellites', 'Swap clients', 'Centralize client', 'Switch products', 'Centralize client', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Swap clients', 'Centralize client', 'Switch trucks', 'Centralize client', 'Centralize client', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Centralize client', 'Swap clients', 'Centralize client', 'Switch products', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch trucks', 'Switch satellites', 'Switch products', 'Swap clients', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client', 'Switch satellites', 'Crossover', 'Switch products', 'Crossover', 'Swap clients', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Centralize client', 'Switch trucks', 'Switch products', 'Centralize client', 'Switch products', 'Crossover', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client', 'Switch products', 'Crossover', 'Swap clients', 'Switch trucks', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Switch products', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Swap clients', 'Crossover', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch trucks', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Centralize client', 'Switch trucks', 'Switch products', 'Centralize client', 'Switch products', 'Crossover', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client', 'Switch products', 'Crossover', 'Swap clients', 'Switch trucks', 'Centralize client', 'Switch trucks', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Swap clients', 'Centralize client', 'Switch satellites', 'Switch trucks', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Chaos', 'Switch trucks', 'Swap clients', 'Switch satellites', 'Switch products', 'Centralize client', 'Switch trucks', 'Centralize client', 'Centralize client', 'Swap clients', 'Switch trucks', 'Crossover', 'Swap clients', 'Switch trucks', 'Centralize client', 'Switch trucks', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Switch products', 'Switch trucks', 'Swap clients', 'Switch products', 'Switch trucks', 'Swap clients', 'Crossover', 'Swap clients', 'Switch trucks', 'Centralize client', 'Crossover', 'Switch products', 'Centralize client', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Switch products', 'Switch trucks', 'Swap clients', 'Switch products', 'Switch trucks', 'Swap clients', 'Centralize client', 'Switch products', 'Crossover', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client', 'Switch satellites', 'Crossover', 'Switch products', 'Switch satellites', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Switch products', 'Centralize client', 'Switch satellites', 'Swap clients', 'Crossover', 'Swap clients', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch trucks', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch products', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch trucks', 'Swap clients', 'Swap clients', 'Switch trucks', 'Centralize client', 'Swap clients', 'Switch products', 'Switch satellites', 'Swap clients', 'Swap clients', 'Switch satellites', 'Switch products', 'Centralize client', 'Switch trucks', 'Swap clients', 'Switch trucks', 'Centralize client', 'Centralize client', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	0	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Switch products', 'Switch trucks', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Swap clients', 'Centralize client', 'Switch trucks', 'Centralize client', 'Centralize client', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Crossover', 'Centralize client', 'Switch products', 'Switch trucks', 'Swap clients', 'Crossover', 'Switch trucks', 'Centralize client', 'Swap clients', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Centralize client', 'Switch trucks', 'Switch products', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Swap clients', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Switch products', 'Switch trucks', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Centralize client', 'Switch products', 'Centralize client', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Crossover', 'Swap clients', 'Centralize client', 'Crossover', 'Switch satellites', 'Swap clients', 'Centralize client', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Swap clients', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	1	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	2	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch satellites', 'Switch products', 'Centralize client', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Crossover', 'Swap clients', 'Centralize client', 'Swap clients', 'Switch products', 'Centralize client', 'Crossover', 'Centralize client', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Crossover', 'Switch products', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Swap clients', 'Centralize client', 'Switch trucks', 'Centralize client', 'Centralize client', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Crossover', 'Centralize client', 'Switch products', 'Switch trucks', 'Swap clients', 'Crossover', 'Switch trucks', 'Centralize client', 'Swap clients', 'Centralize client', 'Crossover', 'Switch satellites', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Switch products', 'Swap clients', 'Switch trucks', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Crossover', 'Switch products', 'Crossover', 'Swap clients', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Swap clients', 'Centralize client', 'Switch satellites', 'Crossover', 'Switch trucks', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Swap clients', 'Centralize client', 'Switch trucks', 'Centralize client', 'Centralize client', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Centralize client', 'Swap clients', 'Centralize client', 'Switch products', 'Swap clients', 'Switch products', 'Switch satellites']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Crossover', 'Swap clients', 'Centralize client', 'Switch products', 'Swap clients', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Swap clients', 'Centralize client', 'Switch trucks', 'Centralize client', 'Centralize client', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Crossover', 'Centralize client', 'Switch products', 'Switch trucks', 'Swap clients', 'Crossover', 'Switch trucks', 'Switch trucks', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Swap clients', 'Centralize client', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Centralize client', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Centralize client', 'Crossover', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch satellites']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client', 'Switch satellites', 'Crossover', 'Centralize client', 'Switch trucks', 'Crossover', 'Centralize client', 'Switch trucks', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Centralize client', 'Switch products', 'Swap clients', 'Centralize client', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Centralize client', 'Crossover', 'Centralize client', 'Switch trucks', 'Centralize client', 'Switch trucks', 'Crossover', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch trucks', 'Switch satellites', 'Centralize client', 'Crossover', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Centralize client', 'Switch trucks', 'Switch products', 'Centralize client', 'Switch products', 'Crossover', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client', 'Switch products', 'Centralize client', 'Switch products', 'Switch products', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Switch products', 'Swap clients', 'Switch trucks', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Crossover', 'Switch products', 'Crossover', 'Swap clients', 'Centralize client', 'Centralize client', 'Switch satellites', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Centralize client', 'Swap clients', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Switch products', 'Crossover', 'Swap clients', 'Centralize client', 'Switch trucks', 'Switch products', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch satellites', 'Switch products', 'Centralize client', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Crossover', 'Swap clients', 'Centralize client', 'Switch trucks', 'Switch satellites']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Crossover', 'Swap clients', 'Crossover', 'Switch trucks', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Centralize client', 'Centralize client', 'Switch satellites']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Crossover', 'Swap clients', 'Centralize client', 'Crossover', 'Switch satellites', 'Switch products', 'Switch trucks', 'Centralize client', 'Swap clients', 'Switch products', 'Switch products', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Centralize client', 'Switch trucks', 'Switch products', 'Centralize client', 'Switch products', 'Crossover', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client', 'Switch products', 'Centralize client', 'Switch products', 'Switch products', 'Swap clients', 'Centralize client', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	1	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	2	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch satellites', 'Switch products', 'Centralize client', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Crossover', 'Swap clients', 'Centralize client', 'Swap clients', 'Switch products', 'Centralize client', 'Crossover', 'Centralize client', 'Switch products', 'Switch products', 'Crossover', 'Swap clients', 'Centralize client', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Centralize client', 'Switch trucks', 'Switch products', 'Centralize client', 'Switch products', 'Crossover', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client', 'Crossover', 'Switch products', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Crossover', 'Swap clients', 'Centralize client', 'Crossover', 'Switch satellites', 'Switch products', 'Centralize client', 'Switch trucks', 'Switch trucks', 'Centralize client', 'Switch satellites']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client', 'Switch satellites', 'Crossover', 'Switch products', 'Switch satellites', 'Centralize client', 'Crossover', 'Switch products', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Crossover', 'Swap clients', 'Switch products', 'Switch trucks', 'Centralize client', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	1	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Centralize client', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Switch products', 'Switch trucks', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Centralize client', 'Switch products', 'Crossover', 'Swap clients', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Crossover', 'Swap clients', 'Switch trucks', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client', 'Switch satellites', 'Crossover', 'Switch products', 'Switch satellites', 'Centralize client', 'Crossover', 'Switch products', 'Centralize client', 'Swap clients', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Swap clients', 'Centralize client', 'Switch trucks', 'Centralize client', 'Centralize client', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Crossover', 'Centralize client', 'Switch products', 'Switch trucks', 'Swap clients', 'Crossover', 'Switch trucks', 'Switch products', 'Swap clients', 'Switch trucks']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Crossover', 'Swap clients', 'Crossover', 'Switch trucks', 'Swap clients', 'Switch products']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client', 'Switch satellites', 'Crossover', 'Switch products', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch products', 'Centralize client']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+1	2	0	1	0	2	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites', 'Centralize client', 'Switch trucks', 'Switch products', 'Centralize client', 'Switch products', 'Crossover', 'Swap clients', 'Switch satellites', 'Crossover', 'Switch products', 'Switch products', 'Centralize client', 'Swap clients', 'Switch trucks', 'Switch products', 'Swap clients', 'Centralize client', 'Crossover', 'Centralize client', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Swap clients', 'Switch satellites', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Crossover', 'Switch trucks', 'Switch satellites', 'Switch products', 'Centralize client', 'Crossover', 'Centralize client', 'Switch products', 'Swap clients']
+< depot 0 | 1 2  ||	depot 1 | 1 2  ||	
+2	2	0	1	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(19606.4583, 13502.8942, 6.0, 17997.06)
+['Order', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Crossover', 'Centralize client', 'Switch satellites', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Switch satellites', 'Switch products', 'Switch products', 'Swap clients', 'Switch products', 'Centralize client', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Switch products', 'Swap clients', 'Crossover', 'Swap clients', 'Switch trucks', 'Centralize client']
+< depot 0 | 3  ||	depot 1 | 3  ||	
+3	3	3	3	0	0	
+1	0	0	0	0	0	| 1 1 
+0	0	1	1	0	0	| 3 4 
+0	1	0	0	0	0	| 2 2 
+0	0	0	2	0	0	| 0 4 
+2	2	0	0	0	0	| 2 1 >
+(20138.547, 12491.2287, 6.0, 17885.190000000002)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Crossover', 'Centralize client', 'Switch trucks', 'Crossover', 'Switch products', 'Swap clients', 'Crossover', 'Switch satellites', 'Centralize client', 'Switch products', 'Swap clients', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Crossover', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Swap clients', 'Switch trucks', 'Switch products', 'Centralize client']
+< depot 0 | 3  ||	depot 1 | 3  ||	
+3	3	0	3	0	3	
+1	0	0	0	0	0	| 1 1 
+0	0	0	1	0	1	| 6 4 
+2	0	0	0	0	0	| 1 1 
+0	0	0	2	0	0	| 0 4 
+0	1	0	0	0	0	| 2 2 >
+(20138.547, 12527.1848, 6.0, 17865.48)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Crossover', 'Centralize client', 'Switch trucks', 'Crossover', 'Switch products', 'Swap clients', 'Crossover', 'Switch satellites', 'Centralize client', 'Switch products', 'Swap clients', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Crossover', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Swap clients', 'Switch trucks', 'Switch products', 'Centralize client', 'Crossover', 'Switch products', 'Switch trucks', 'Swap clients', 'Centralize client', 'Swap clients', 'Switch trucks', 'Centralize client']
+< depot 0 | 3  ||	depot 1 | 3  ||	
+3	3	0	3	0	3	
+1	0	0	0	0	0	| 1 1 
+0	0	0	1	0	1	| 6 4 
+2	0	0	0	0	0	| 1 1 
+0	0	0	0	0	0	| 0 4 
+0	1	0	0	0	0	| 2 2 >
+(20138.547, 12527.1848, 6.0, 17865.48)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Swap clients', 'Switch trucks', 'Switch satellites', 'Crossover', 'Centralize client', 'Switch trucks', 'Crossover', 'Switch products', 'Swap clients', 'Crossover', 'Switch satellites', 'Centralize client', 'Switch products', 'Swap clients', 'Switch satellites', 'Centralize client', 'Switch products', 'Switch satellites', 'Crossover', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Swap clients', 'Switch trucks', 'Switch products', 'Centralize client', 'Crossover', 'Switch products', 'Switch trucks', 'Swap clients', 'Centralize client', 'Swap clients', 'Switch trucks', 'Centralize client', 'Swap clients', 'Crossover', 'Switch products', 'Switch satellites', 'Centralize client']
+< depot 0 | 1 3  ||	depot 1 | 1 3  ||	
+1	1	0	3	3	0	
+1	0	0	0	0	0	| 1 1 
+0	0	0	1	1	0	| 5 4 
+0	1	0	0	0	0	| 2 2 
+0	0	0	2	0	0	| 0 4 
+2	2	0	0	0	0	| 2 1 >
+(22502.6373, 11531.662400000001, 6.0, 18839.280000000002)
+['Order', 'Switch products', 'Centralize client', 'Switch products', 'Swap clients', 'Crossover', 'Switch products', 'Swap clients', 'Swap clients', 'Switch satellites', 'Switch trucks', 'Swap clients', 'Crossover', 'Swap clients', 'Switch trucks', 'Centralize client', 'Switch products', 'Crossover', 'Switch trucks', 'Centralize client', 'Swap clients', 'Centralize client', 'Switch satellites', 'Switch products', 'Switch trucks']
+< depot 0 | 1 3  ||	depot 1 | 1 3  ||	
+3	1	3	0	0	1	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(22502.6373, 11611.3266, 6.0, 18759.100000000002)
+['Order', 'Crossover', 'Centralize client', 'Switch products', 'Swap clients', 'Switch products', 'Switch satellites']
+< depot 0 | 1 3  ||	depot 1 | 1 3  ||	
+3	1	3	0	0	1	
+0	0	1	0	0	0	| 3 3 
+0	0	0	0	0	0	| 1 1 
+0	0	0	0	0	1	| 6 6 
+0	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(22502.6373, 11611.3266, 6.0, 18759.100000000002)
+['Order', 'Crossover', 'Switch products', 'Swap clients', 'Switch products', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch products', 'Switch trucks', 'Centralize client', 'Crossover', 'Switch products', 'Switch satellites', 'Switch trucks']
+< depot 0 | 2 3  ||	depot 1 | 3  ||	
+3	3	0	3	2	0	
+0	0	0	1	0	0	| 4 4 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 2 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(23694.7854, 10758.338699999998, 6.0, 19201.47)
+['Order', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Swap clients', 'Crossover', 'Swap clients', 'Switch products', 'Switch satellites', 'Crossover', 'Switch products', 'Crossover', 'Switch products', 'Centralize client', 'Swap clients', 'Switch trucks']
+< depot 0 | 2 3  ||	depot 1 | 3  ||	
+3	3	3	0	2	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 2 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(23694.7854, 10758.338699999998, 6.0, 19201.47)
+['Order', 'Switch satellites', 'Switch trucks', 'Centralize client', 'Swap clients', 'Crossover', 'Swap clients', 'Switch products', 'Switch satellites', 'Crossover', 'Switch products', 'Crossover', 'Switch products', 'Centralize client', 'Swap clients']
+< depot 0 | 1 2 3  ||	depot 1 | 1 3  ||	
+3	1	3	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	1	0	0	0	1	| 6 2 
+0	0	0	0	0	0	| 0 1 
+0	2	0	0	0	0	| 2 2 >
+(25594.14, 10039.7486, 6.0, 20025.06)
+['Order', 'Crossover', 'Swap clients', 'Switch satellites', 'Swap clients', 'Centralize client', 'Centralize client', 'Swap clients', 'Switch satellites', 'Switch products']
+< depot 0 | 1 2 3  ||	depot 1 | 1 3  ||	
+3	1	3	0	0	2	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	1	0	0	0	1	| 6 2 
+2	0	0	0	0	0	| 0 1 
+0	2	0	0	0	0	| 2 2 >
+(25594.14, 10039.7486, 6.0, 20025.06)
+['Order', 'Crossover', 'Swap clients', 'Switch satellites', 'Swap clients', 'Centralize client', 'Centralize client', 'Swap clients', 'Switch satellites', 'Switch products', 'Centralize client']
+< depot 0 | 2 3  ||	depot 1 | 2 3  ||	
+3	2	0	3	0	2	
+0	0	0	0	0	0	| 4 4 
+0	0	0	0	0	0	| 1 1 
+0	0	0	0	0	0	| 6 6 
+0	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+(28598.0838, 7913.0542000000005, 6.0, 20877.06)
+['Order']
+< depot 0 | 2 3  ||	depot 1 | 2 3  ||	
+3	2	3	0	2	0	
+0	0	1	0	0	0	| 3 3 
+0	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+0	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+(28598.0838, 7913.0542000000005, 6.0, 20877.06)
+['Order', 'Crossover', 'Switch products', 'Swap clients', 'Switch products', 'Switch trucks', 'Centralize client', 'Switch products', 'Switch products', 'Switch trucks', 'Centralize client', 'Crossover', 'Switch products', 'Switch satellites', 'Switch trucks', 'Crossover', 'Switch trucks', 'Switch satellites', 'Swap clients', 'Switch products']
+Objective functions
+f0 - First-echelon cost (Guaranies)
+f1 - Second-echelon cost (Guaranies)
+f2 - Total vehicles used
+f3 - Total emissions produced (grams)
+          8567.30160	         17201.16660	    6	         12884.38000
+          8567.30160	         17201.16660	    6	         12884.38000
+         14063.30640	         15629.58860	    6	         15606.90000
+         14063.30640	         15629.58860	    6	         15606.90000
+         17976.51570	         14434.24520	    6	         17401.32000
+         17976.51570	         14434.24520	    6	         17401.32000
+         17976.51570	         14434.24520	    6	         17401.32000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         19606.45830	         13502.89420	    6	         17997.06000
+         20138.54700	         12491.22870	    6	         17885.19000
+         20138.54700	         12527.18480	    6	         17865.48000
+         20138.54700	         12527.18480	    6	         17865.48000
+         22502.63730	         11531.66240	    6	         18839.28000
+         22502.63730	         11611.32660	    6	         18759.10000
+         22502.63730	         11611.32660	    6	         18759.10000
+         23694.78540	         10758.33870	    6	         19201.47000
+         23694.78540	         10758.33870	    6	         19201.47000
+         25594.14000	         10039.74860	    6	         20025.06000
+         25594.14000	         10039.74860	    6	         20025.06000
+         28598.08380	          7913.05420	    6	         20877.06000
+         28598.08380	          7913.05420	    6	         20877.06000
+Best solutions for each OF
+Function 0
+< depot 0 | 1  ||	depot 1 | 1  ||	
+1	1	1	0	1	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+     8567.30160	    17201.16660	    6	    12884.38000
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites']
+Function 1
+< depot 0 | 2 3  ||	depot 1 | 2 3  ||	
+3	2	0	3	0	2	
+0	0	0	0	0	0	| 4 4 
+0	0	0	0	0	0	| 1 1 
+0	0	0	0	0	0	| 6 6 
+0	0	0	0	0	0	| 0 1 
+0	0	0	0	0	0	| 2 2 >
+    28598.08380	     7913.05420	    6	    20877.06000
+['Order']
+Function 2
+< depot 0 | 1  ||	depot 1 | 1  ||	
+1	1	1	0	1	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+     8567.30160	    17201.16660	    6	    12884.38000
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites']
+Function 3
+< depot 0 | 1  ||	depot 1 | 1  ||	
+1	1	1	0	1	0	
+0	0	1	0	0	0	| 3 3 
+1	0	0	0	0	0	| 1 1 
+0	0	0	0	1	0	| 5 5 
+2	0	0	0	0	0	| 0 1 
+0	1	0	0	0	0	| 2 2 >
+     8567.30160	    17201.16660	    6	    12884.38000
+['Order', 'Crossover', 'Switch satellites', 'Centralize client', 'Swap clients', 'Switch satellites']
